@@ -34,4 +34,9 @@ userInfo = `
     isPro: ${isPro}
 `;
 
-console.log('userInfo', userInfo);
+
+let idUser: any;
+idUser = 1; // number
+idUser = 'user'
+
+console.log('idUser', idUser);

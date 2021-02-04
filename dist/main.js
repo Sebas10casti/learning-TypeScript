@@ -21,3 +21,7 @@ username = 'Javier';
 // Template String with use of back-tick ``
 var userInfo;
 userInfo = "\n    User info:\n    username: " + username + "\n    firtsname: " + (username + ' anbreaker') + "\n    phone: " + phone + "\n    isPro: " + isPro + "\n";
+var idUser;
+idUser = 1; // number
+idUser = 'user';
+console.log('idUser', idUser);
